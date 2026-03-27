@@ -1,0 +1,18 @@
+[
+  {
+    "AccessId": "6FBE0ABAC3",
+    "ClientName": "Basti",
+    "IsActive": false,
+    "ExpirationDate": "2026-04-26T07:51:38.6023904Z",
+    "DeviceId": "B36B138022C6D2E2F59E23273FFBD123B522C7715FEA40DB778E27DC8ED9F10D",
+    "LastCheckUtc": "2026-03-27T07:54:14.4596903Z"
+  },
+  {
+    "AccessId": "3F2481AAE3",
+    "ClientName": "johnsen",
+    "IsActive": false,
+    "ExpirationDate": "2026-04-26T07:56:51.0288567Z",
+    "DeviceId": "B36B138022C6D2E2F59E23273FFBD123B522C7715FEA40DB778E27DC8ED9F10D",
+    "LastCheckUtc": "2026-03-27T07:57:40.2756535Z"
+  }
+]
