@@ -15,5 +15,7 @@ app.UseSwaggerUI();
 
 app.UseAuthorization();
 app.MapControllers();
-app.Urls.Add("http://0.0.0.0:10000");
-app.Run();
+
+app.MapGet("/", () => "GameBooster API is running.");
+
+app.Run("http://0.0.0.0:10000");
